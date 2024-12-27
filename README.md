@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sri Ram Reddy Vangala</h1>
-<h3 align="center">This is the place where I opensource stuff and break things</h3>
+<h1 align="center">Hello , I'm Sri Ram Reddy Vangala</h1>
+<div align = "center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Guy" width="500"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sri-ram-reddy-vangala&label=Profile%20views&color=0e75b6&style=flat" alt="sri-ram-reddy-vangala" /> </p>
 
